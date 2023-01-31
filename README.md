@@ -5,20 +5,20 @@
 
 Here're some of the project's best features:
 
-*    2D graphics
-*    High score tracking
-*    Acceleration with Velocity
+*   2D graphics
+*   High score tracking
+*   Acceleration with Velocity
 
 <h2>💻 Built with</h2>
 
 Technologies used in the project:
 
-*    Python
-*    Pygame
+*   Python
+*   Pygame
 
 <h2>📦 Dependencies</h2>
 
-*    Pygame
+*   Pygame
 
 <h2>💖Like my work?</h2>
 
